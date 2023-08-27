@@ -318,7 +318,7 @@ def mse_graph(mse, regions):
         xaxis_title='Model year',
         yaxis_title='MSE',
     )
-    fig.show()
+    fig.show()	
 
 
 

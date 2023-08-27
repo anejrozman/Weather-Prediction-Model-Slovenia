@@ -10,6 +10,4 @@ pip install -r requirements.txt
 ```
 
 ### Usage
-You can check the file `results.ipynb` to see the models performance when ran on 27.8.2023. 
-
-You can also download the repository and run the jupyter file in order to see how the model performs on future data.
+You can check the file `results.ipynb` to see the models performance when ran on 27.8.2023. Note that some of the plots creates in plotly wont show because they are displayed in an interactive html format. If you wish to visualize the predictions you can also download the repository and run the jupyter file in order to see how the model performs on future data.
